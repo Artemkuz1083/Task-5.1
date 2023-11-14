@@ -1,7 +1,0 @@
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\bin\Debug\Task 5.1.exe.config
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\bin\Debug\Task 5.1.exe
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\bin\Debug\Task 5.1.pdb
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\obj\Debug\Task 5.1.csproj.AssemblyReference.cache
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\obj\Debug\Task 5.1.csproj.CoreCompileInputs.cache
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\obj\Debug\Task 5.1.exe
-C:\Users\artem\source\repos\Task 5.1\Task 5.1\obj\Debug\Task 5.1.pdb
