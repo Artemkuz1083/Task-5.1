@@ -26,7 +26,7 @@ namespace Task_5._1
                     break;
                 }
 
-                if (int.TryParse(str, out int intNumber))
+                if (int.TryParse(str, out int intNumber) || numbers.Count() == 0)
                 {
                     Console.WriteLine(intNumber);
                     numbers.Add(intNumber);
